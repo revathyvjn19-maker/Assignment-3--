@@ -59,7 +59,7 @@ Syntax **=IF(Table1[@BMI]<18.5,"Under Weight",IF(Table1[@BMI]<24.9,"Normal Weigh
 
 8)	Merge ‘year’, ‘month’ and ‘date’ columns in the “Hospitalization Details” Table into one column named ‘Date of Birth’ and format it in ‘DD-MMM-YYYY’ custom format.
    
-Merged by using CONCATENATE function 
+**Merged by using CONCATENATE function**
 
 Syntax **=CONCATENATE([@date],"-",[@Month2],"-",[@Year2])** 
 
