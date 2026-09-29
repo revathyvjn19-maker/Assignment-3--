@@ -112,8 +112,12 @@ Syntax **=VLOOKUP(Table1[[#Headers],[HBA1C]],Table1[[#All],[HBA1C]],1,FALSE)**
 
 # Dashboard Creation:
 ➢	Build an interactive dashboard that consolidates all key insights using the above visualizations. Ensure visual clarity and ease of interpretation for all chart types.
-➢	The dashboard was created with all charts 
-➢	Add slicers for the fields “Weight Status” and “Diabetes Status” to enable filtering across all visualizations, supporting comparison of health outcomes and charges based on body weight and diabetes condition.
-➢	Slicers added
-➢	**Pivot chart Analyze – Insert slicer**
+
+	The dashboard was created with all charts 
+
+ ➢  Add slicers for the fields “Weight Status” and “Diabetes Status” to enable filtering across all visualizations, supporting comparison of health outcomes and charges based on body weight and diabetes condition.
+ 
+ Slicers added
+
+   **Pivot chart Analyze – Insert slicer**
 
