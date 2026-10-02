@@ -79,7 +79,7 @@ Syntax ** =DATEDIF([@[Date of Birth]],DATE(2023,6,8),"Y")**
 
 Combined tables by using VLOOKUP function
 
-Syntax **=VLOOKUP(Table1[[#Headers],[HBA1C]],Table1[[#All],[HBA1C]],1,FALSE)**
+Syntax **==VLOOKUP('CUSTOMER NAME'!A2,'CUSTOMER NAME'!A2:A2337,1,FALSE)**
 
 # Analysis using Pie/Donut Chart:
 
